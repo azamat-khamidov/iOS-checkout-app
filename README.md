@@ -1,8 +1,3 @@
-# Assignment 2
-assignment-2-125-azamat-khamidov created by GitHub Classroom
-
-* Azamat Khamidov, student number: 1006907279, UTORid: khamidov
-
 Simple Checkout Price Calculator iOS Application (written on Swift)
 
 To open the iOS Application and test:
